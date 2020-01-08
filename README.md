@@ -1,21 +1,20 @@
-# yijiahemu
-
-## Project setup
+<!--
+ * @Author: amujoe
+ * @Date: 2020-01-06 16:35:38
+ * @Description: file content
+ -->
+####
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
+#### deploy
 ```
 npm run build
-```
+git checkout -b gh-pages
+git add -f dist
+git commit -m 'first commit'
+git subtree push --prefix dist origin gh-pages
 
-### Lints and fixes files
-```
-npm run lint
 ```
