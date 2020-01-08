@@ -1,3 +1,8 @@
+/*
+ * @Author: amujoe
+ * @Date: 2020-01-06 16:35:04
+ * @Description: file content
+ */
 import Vue from "vue";
 import Router from "vue-router";
 import Home from "./views/Home.vue";
@@ -5,7 +10,7 @@ import Home from "./views/Home.vue";
 Vue.use(Router);
 
 export default new Router({
-  mode: "history",
+  // mode: "history",
   base: process.env.BASE_URL,
   routes: [
     {
