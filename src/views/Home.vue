@@ -106,23 +106,23 @@ export default class Home extends Vue {
       project_list: [
         {
           pic: "https://oss1.chedianai.com/images/assets/Slice01.png",
-          title: "办公用品",
-          desc: "文件档案用品、桌面用品、办公设备、财务用品、耗材等一系列与工作相关的用品"
+          title: "办公家具",
+          desc: "办公桌椅,会议桌椅,文件柜,办公沙发茶几,员工工位,屏风高隔等.厂家定制,设计新颖,功能完善,产品质量优质, 让您省心更放心"
         },
         {
           pic: "https://oss1.chedianai.com/images/assets/Slice02.png",
           title: "家居用品",
-          desc: "床上用品、厨卫用具、室内配饰及日常生活需要的商品"
+          desc: "床上用品、厨卫用具、室内配饰及日常生活需要的商品应有尽有,多个大型的家具生产厂家为你量身定制, 保证为你提供优质的便捷服务"
         },
         {
           pic: "https://oss1.chedianai.com/images/assets/Slice04.png",
           title: "会展布置",
-          desc: "从设计到施工, 从施工到拆台一体式服务"
+          desc: "会展布置,展会搭建,搭建展台首选服务商,展会施工,大型会晤活动整体策划与制作,展位搭建,快速施工,搭建设计执行一体化服务"
         },
         {
           pic: "https://oss1.chedianai.com/images/assets/Slice03.png",
           title: "五金建材",
-          desc: "指金、银、铜、铁、锡五种金属。经人工加工可以制成刀、剑等艺术品或金属器件。现代社会的五金更为广泛，例如五金工具、五金零部件、日用五金"
+          desc: "建筑五金、白铁皮、锁类铁钉、铁丝、钢铁丝网、钢丝剪、家庭五金、五金工具、五金零部件、日用五金等, 工具齐全, 让你一站式采购, 方便快捷"
         }
       ],
       partner_list: [
